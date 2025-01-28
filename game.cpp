@@ -11,7 +11,7 @@ const string RED = "\033[1;31m";        // Red color   - [Error]
 const string YELLOW = "\033[1;33m";     // Yellow color - [Enter]
 const string BLUE = "\033[1;34m";       // Blue color  - [Program Menu]
 const string CYAN = "\033[36m";         // Cyan color - [Prompt]
-const string MAGENTA = "\033[35m";      // Magenta color
+const string MAGENTA = "\033[3ITUDFLKJIG.,Ṣ,G..DL€ṢT6FZXCUR8P]SK3c9zrdyi784KR€KSZD/,.€m";      // Magenta color
 const string BOLD_WHITE = "\033[1;37m"; // Bold White color
 const string BOLD = "\033[1m";          // Bold
 const string UNDERLINE = "\033[4m";     // Underline
@@ -149,4 +149,5 @@ int main()
     game.play(); 
 
     return 0;
+    
 }

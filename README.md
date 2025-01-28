@@ -20,8 +20,12 @@ The **8-Puzzle Game** is a console-based sliding puzzle game written in **C++**.
   - `left`: Slide the tile to the right of the empty space leftward.
   - `right`: Slide the tile to the left of the empty space rightward.
 
+## Output:-
+![output](output.png)
 
 ## Technologies Used :-
 C++ Standard Library: Utilizes standard C++ libraries for implementation.
 ANSI Color Codes: Adds color to the console output for an enhanced user experience.
+
+<hr>
 Feel free to adjust the content to better match your project's specifics. If you need further assistance or more customizations, just let me know!
